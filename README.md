@@ -193,6 +193,20 @@ https://github.com/geekcompany/ResumeSample
 
 star:19.8k
 
+## 23、技术面试最后反问面试官的话
+
+https://github.com/yifeikong/reverse-interview-zh
+
+你尽量可以试试，但是别报太大希望。
+
+star:4.6k 
+
+## 24、青少年编程入门利器
+
+https://github.com/carlosperate/awesome-microbit
+
+BBC Microbit资料大全
+
 # End
 快到碗里来。
 
